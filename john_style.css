@@ -1,0 +1,52 @@
+body
+{
+	color: black;		
+	background-color: gold;
+	font-size: 15pt;
+	font-family: verdana;
+	margin: 10;
+	
+	}
+	
+	.photo{
+	float:left;
+	border: 10px solid white;
+	padding-bottom:10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left:10px;
+	margin-right:10px;
+	margin-bottom: 10px;
+	background: black; 
+	}
+	
+	.photo2{
+	float:Right;
+	border: 10px solid white;
+	padding-bottom:10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left:10px;
+	margin-right:10px;
+	margin-bottom: 10px;
+	background: black; 
+	}
+	
+	
+.header {text-align:center;
+		font-size: 30pt;
+		font-variant:small-caps;
+		margin-bottom: 15px;
+		background: white;
+		color:black;
+		border: 5px solid black;
+		
+		
+		}
+		
+#nav { background:white; padding:5px 5px; text-align:center; border: 5px solid black; }
+#nav li  { display: inline; list-style-type: none; padding-right: 15px; font-size: 20pt; font-weight:bold; font-variant:small-caps;}
+	
+
+		
+	
